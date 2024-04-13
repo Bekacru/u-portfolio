@@ -44,20 +44,22 @@ export const config = {
 
 > See the config file for more options
 
-Install the dependencies
+- Install the dependencies
 
 ```shell
 pnpm install
 ```
 
-Run the development server
+- Run the development server
 
 ```shell
 pnpm dev
 ```
 
-Deploy to [Vercel](https://vercel.com)
+- Review the changes
 
-- Create a new project on Vercel
-- Connect the repo
-- Deploy
+- Deploy to [Vercel](https://vercel.com)
+
+  - Create a new project on Vercel
+  - Connect the repo
+  - Deploy
