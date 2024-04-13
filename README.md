@@ -19,6 +19,8 @@ git clone https://github.com/Bekacru/u-portfolio
 
 Change the config in `lib/config.tsx` to your own
 
+example
+
 ```tsx
 export const config = {
   name: "Your Name",
@@ -33,14 +35,14 @@ export const config = {
       name: "Project Name",
       description: "Project Description",
       link: "https://project.link",
-      //if you need more icons, add them inside `lib/icons.tsx`
       stackIcons: ["nextJs"],
     },
   ],
-  // Go to https://loglib.io to get your loglib id
   analytics: "YOUR_LOGLIB_ID",
 };
 ```
+
+> See the config file for more options
 
 Install the dependencies
 

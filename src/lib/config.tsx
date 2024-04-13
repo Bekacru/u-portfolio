@@ -63,6 +63,9 @@ interface IConfig {
    * can just put "/cv.pdf".
    */
   cv: string;
+  /**
+   * Metadata for the website.
+   */
   metadata: {
     /**
      * Default title of the website.
